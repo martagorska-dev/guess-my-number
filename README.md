@@ -6,6 +6,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
+* [Setup](#setup)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
@@ -36,8 +37,16 @@ Try to guess a secret number between 1️⃣ and 2️⃣0️⃣.
 https://github.com/martagorska-dev/guess-my-number/assets/130976058/e580c77c-ecb9-4f64-83d0-219dba4739f2
 
 
+## Setup
+1. Clone this repository
+   ```
+   git clone https://github.com/martagorska-dev/pig-game
+   ```
+3. Open  *index.html*
+
+
 ## Acknowledgements
-- This project was based on [this tutorial](https://www.udemy.com/course/the-complete-javascript-course/).
+This project was based on [this tutorial](https://www.udemy.com/course/the-complete-javascript-course/).
 
 
 ## Contact
