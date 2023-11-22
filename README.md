@@ -35,14 +35,14 @@ https://github.com/martagorska-dev/guess-my-number/assets/130976058/e580c77c-ecb
 
 ## Usage
 - Type a number between 1️⃣ and 2️⃣0️⃣ in the input box.
-- Click on the Check! button.
+- Click on the "Check!" button.
 - If the guessed number is less than the secret number, you will see "📉 Too Low!" message.
 - If the guessed number is greater than the secret number, you will see "📈 Too High!" message.
 - If the guessed number is same as the secret number, you will see "🎉 Correct Number!" message and the background will turn 🟩.
 - You start with score of 2️⃣0️⃣ and after each defeat it is reduced by 1️⃣.
 - If score reaches to 0️⃣, you lost the game.
 - The Highscore will be the maximum of all scores in the current session.
-- You can reset the game by clicking Again! button.
+- You can reset the game by clicking "Again!" button.
 
 
 ## Acknowledgements
